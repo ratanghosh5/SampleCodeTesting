@@ -15,7 +15,7 @@ namespace HelloWorld
 
         public static string CreateMessage()
         {
-            return "Hello World fro Test Branch";
+            return "Hello World from Test Branch";
         }
     }
 }
